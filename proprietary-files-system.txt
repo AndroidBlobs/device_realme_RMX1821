@@ -1,0 +1,6 @@
+-app/SoterService/SoterService.apk
+bin/iwpriv
+framework/vendor.qti.hardware.soter-V1.0-java.jar
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
+lib64/vendor.qti.hardware.soter@1.0.so
