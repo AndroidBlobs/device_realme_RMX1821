@@ -2,7 +2,7 @@ DEVICE_PATH := device/realme/RMX1821
 BOARD_VENDOR := realme
 
 # Security patch level
-VENDOR_SECURITY_PATCH := 2019-11-05
+VENDOR_SECURITY_PATCH := 2020-01-05
 
 # HIDL
 DEVICE_MANIFEST_FILE := $(DEVICE_PATH)/manifest.xml

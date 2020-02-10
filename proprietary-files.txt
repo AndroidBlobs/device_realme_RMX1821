@@ -30,6 +30,7 @@ vendor/lib/libaudiotoolkit_vendor.so
 vendor/lib/libaudio_engineer_test.so
 vendor/lib/libaudio_param_parser-vnd.so
 vendor/lib/libDiracAPI_SHARED.so
+vendor/lib/libtinycompress.so
 vendor/lib/soundfx/libaudiopreprocessing.so
 vendor/lib/soundfx/libdirac.so
 vendor/lib64/libaudiocompensationfilterc.so
@@ -45,6 +46,7 @@ vendor/lib64/libaudiosetting.so
 vendor/lib64/libaudiotoolkit_vendor.so
 vendor/lib64/libaudio_engineer_test.so
 vendor/lib64/libaudio_param_parser-vnd.so
+vendor/lib64/libtinycompress.so
 vendor/lib64/soundfx/libaudiopreprocessing.so
 
 # Audio-Hardware
@@ -1718,12 +1720,12 @@ vendor/etc/init/init.thermal.rc
 vendor/etc/init/init.thermalloadalgod.rc
 vendor/etc/init/init.thermal_manager.rc
 vendor/lib/hw/android.hardware.thermal@1.0-impl.so
-vendor/lib/hw/thermal.mt6771.so
 vendor/lib/libthermalalgo.so
 vendor/lib64/hw/android.hardware.thermal@1.0-impl.so
-vendor/lib64/hw/thermal.mt6771.so
 
 # Thermal-Hardware
+vendor/lib/hw/thermal.mt6771.so
+vendor/lib64/hw/thermal.mt6771.so
 
 # Time
 
